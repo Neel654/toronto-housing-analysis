@@ -2,7 +2,7 @@
 ## Power Level: OVER 9000! 🐉
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs4ZHI1ZWJvN2ZocnM5a3hyeXU3d3kxbzZrNGpieTZtNjh1dHBxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1MdgKtLJ7rMw9wYWvH/giphy.gif" width="600"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Uwa2s3aWR3NG5pMmZ3ODV2dTM5YjgzeXoxbm0yMGdlM2Vla2RlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5fMI9ftgQiGzoZoB9/giphy.gif" width="600"/>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -574,7 +574,8 @@ Want to join the team and make this project even stronger? Follow the **Way of t
 ---
 
 ## 🌌 GALACTIC CONTACT (REACH OUT) 🌌
-<img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" width="400"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb241d3BkenlhZWMwdjY5bHZxMTRpemlmcWIxc25vc20yY2xkamcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ypOFav06amv1qOfyb9/giphy.gif" width="400"/>
+
 ### 💫 **Connect with the Warrior** 💫
 
 <div align="center">
